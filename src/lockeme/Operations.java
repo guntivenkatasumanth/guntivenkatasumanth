@@ -101,7 +101,7 @@ package lockeme;
 	       
 	        try{
 	            Scanner scanner = new Scanner(System.in);
-	            //char[] input = scanner.nextLine().toLowerCase().trim().toCharArray();
+	            
 	            String option = scanner.nextLine().toLowerCase();
 	            char decision=0;
 
